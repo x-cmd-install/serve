@@ -66,7 +66,7 @@
   "releases_url": "https://api.github.com/repos/vercel/serve/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vercel/serve/deployments",
   "created_at": "2016-04-27T03:58:25Z",
-  "updated_at": "2026-10-14T11:40:30Z",
+  "updated_at": "2026-10-15T15:45:16Z",
   "pushed_at": "2026-06-30T19:11:35Z",
   "git_url": "git://github.com/vercel/serve.git",
   "ssh_url": "git@github.com:vercel/serve.git",
@@ -74,8 +74,8 @@
   "svn_url": "https://github.com/vercel/serve",
   "homepage": "https://npmjs.com/package/serve",
   "size": 1463,
-  "stargazers_count": 9904,
-  "watchers_count": 9904,
+  "stargazers_count": 9907,
+  "watchers_count": 9907,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -83,11 +83,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 708,
+  "forks_count": 709,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 153,
+  "open_issues_count": 154,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -107,9 +107,9 @@
     "node"
   ],
   "visibility": "public",
-  "forks": 708,
-  "open_issues": 153,
-  "watchers": 9904,
+  "forks": 709,
+  "open_issues": 154,
+  "watchers": 9907,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -143,6 +143,6 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "network_count": 708,
+  "network_count": 709,
   "subscribers_count": 104
 }
