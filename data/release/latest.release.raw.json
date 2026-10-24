@@ -66,7 +66,7 @@
   "releases_url": "https://api.github.com/repos/vercel/serve/releases{/id}",
   "deployments_url": "https://api.github.com/repos/vercel/serve/deployments",
   "created_at": "2016-04-27T03:58:25Z",
-  "updated_at": "2026-10-20T19:38:12Z",
+  "updated_at": "2026-10-23T22:52:12Z",
   "pushed_at": "2026-06-30T19:11:35Z",
   "git_url": "git://github.com/vercel/serve.git",
   "ssh_url": "git@github.com:vercel/serve.git",
@@ -74,8 +74,8 @@
   "svn_url": "https://github.com/vercel/serve",
   "homepage": "https://npmjs.com/package/serve",
   "size": 1463,
-  "stargazers_count": 9906,
-  "watchers_count": 9906,
+  "stargazers_count": 9905,
+  "watchers_count": 9905,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -83,7 +83,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 706,
+  "forks_count": 707,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -107,9 +107,9 @@
     "node"
   ],
   "visibility": "public",
-  "forks": 706,
+  "forks": 707,
   "open_issues": 154,
-  "watchers": 9906,
+  "watchers": 9905,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -143,6 +143,6 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "network_count": 706,
+  "network_count": 707,
   "subscribers_count": 103
 }
